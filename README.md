@@ -1,2 +1,1 @@
-# Text-analyzer
-Thinkful
+Text analyiser!
